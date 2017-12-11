@@ -1,0 +1,104 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFFFF;
+}
+
+header{
+color: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+#intro{
+	background-color: #4C4C4C;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 150px 0;
+	background-image:url(../img/fondo.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#intro h1{
+	color: #FFFFFF;
+	font-weight: 800;
+	font-size: 70px;
+	padding-top: 300px;
+}
+#cuadro{
+	background: #cba006;
+	box-shadow: 0 1px 5px -1px #9c9c9c;
+	color: #fff;
+	border: none;
+}
+#acerca{
+	text-align: center;
+	background-color: #4C4C4C;
+	padding-bottom: 75px;
+	
+
+}
+#acerca h1{
+	font-size: 50px;
+	padding-top: 0px;
+	padding-bottom: 1px;
+}
+
+#servicios{
+	text-align: center;
+	background-color: #4C4C4C;
+	padding-bottom: 150px;
+}
+#servicios h1{
+	font-size: 50px;
+	padding-top: 0px;
+	padding-bottom: 1px;
+}
+.fa{
+	font-size: 80px;
+	padding-top: 30px;
+}
+#acerca h3{
+	text-align: left;
+	padding-bottom: 30px;
+}
+#acerca p{
+	text-align: justify;
+	padding-bottom: 20px;
+}
+#portafolio{
+	text-align: center;
+	background-color: #4C4C4C;
+	padding-bottom: 100px;
+}
+#portafolio h1{
+	font-size: 50px;
+	padding-top: 5px;
+	padding-bottom: 1px;
+}
+#portafolio h2{
+	background-color: #CBA006;
+	color: #FFFFFF;
+	font-size: 25px;
+}
+#contacto{
+	text-align: center;
+	background-color: #4C4C4C;
+	padding-top: 10px;
+
+}
+#contacto h1{
+	font-size: 50px;
+	padding-top: 0px;
+	padding-bottom: 1px;
+}
+footer{
+color: #4C4C4C;
+	text-align: center;
+}
+
+#contact{
+	background-color: #cba006;
+	border: none;
+	margin-top: 10px;
+}
